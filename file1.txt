@@ -1,0 +1,2 @@
+File containing text for exercices purpose.
+This file is named: file1.txt
