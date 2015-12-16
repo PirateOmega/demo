@@ -1,1 +1,2 @@
 This the contents of my new file!
+This line is a new line for testing purpose.
